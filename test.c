@@ -1,6 +1,7 @@
 //this is my file
 
-int led = 13;    
+int led = 13; 
+int test= 0;   
 
 void setup() {                  // the setup() method is executed only once
   pinMode(led, OUTPUT);         // the led PIN is declared as digital output
